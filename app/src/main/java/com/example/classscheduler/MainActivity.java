@@ -10,6 +10,7 @@ ASSIGNMENT DETAILS:
 -Modify the project to do the following:
     -User will be able to select a class from the list and build their own schedule
     -User will make 5 selections to build a schedule
+    -Make a list of at least 10 unique class names (be creative!, but appropriate please :))
     -User cannot select the same class twice
     -Final schedule can resemble this:
         CLASS 1: class_name
