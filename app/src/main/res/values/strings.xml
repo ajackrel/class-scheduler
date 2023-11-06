@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">test_4</string>
+    <string-array name="classes">
+        <item name="CS AP A">CS AP A</item>
+        <item name="MATH">MATH</item>
+        <item name="ENGLISH">ENGLISH</item>
+        <item name="HISTORY">HISTORY</item>
+
+    </string-array>
+
+</resources>
